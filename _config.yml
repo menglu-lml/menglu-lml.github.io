@@ -25,6 +25,7 @@ author:
   name             : "Menglu Li"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D Candidate focused on Signal Processing and Machine Learning"
+  bio              : "Email: menglu.li@torontomu.ca"
   location         : "Toronto, Canada"
   employer         : "Toronto Metropolitan University"
   uri              : # URL
@@ -49,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
