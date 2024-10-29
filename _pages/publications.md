@@ -25,7 +25,7 @@ For the most up-to-date list of publications, please visit my [Google Scholar pr
 
 [C6] **M. Li** and X.-P. Zhang, “**Interpretable temporal class activation representation for audio spoofing  detection**,” Interspeech 2024, pp. 1120–1124, Sep. 2024. <[paper](https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.html)> <[pdf](https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.pdf)>
 
-[C5] **M. Li** and X.-P. Zhang, “**Robust audio anti-spoofing system based on low-frequency sub-band information**,” _2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)_, pp. 1–5, Oct. 2023. <[paper](https://ieeexplore.ieee.org/document/10248132)> <[pdf](files/Robust_Audio_Anti-Spoofing_System_Based_on_Low-Frequency_Sub-Band_Information.pdf)>
+[C5] **M. Li** and X.-P. Zhang, “**Robust audio anti-spoofing system based on low-frequency sub-band information**,” _2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)_, pp. 1–5, Oct. 2023. <[paper](https://ieeexplore.ieee.org/document/10248132)> <[pdf](../files/Robust_Audio_Anti-Spoofing_System_Based_on_Low-Frequency_Sub-Band_Information.pdf)>
 
 [C4] **M. Li**, Y. Ahmadiadli, and X.-P. Zhang, “**Robust deepfake audio detection via bi-level optimization**,” _2023 IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)_, pp. 1–6, Sep. 2023. <[paper](https://ieeexplore.ieee.org/document/10337724)> <[pdf](files/Robust_Deepfake_Audio_Detection_via_Bi-Level_Optimization.pdf)>
 
