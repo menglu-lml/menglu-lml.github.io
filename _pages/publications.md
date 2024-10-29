@@ -12,7 +12,7 @@ redirect_from:
 For the most up-to-date list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=bh5r0XoAAAAJ&hl=en).
 
 ## Journal
-[J3] H. Jebamikyous, **M. Li**, Y. Suhas, and R. Kashef, “**Leveraging machine learning and blockchain in e-commerce and beyond: Benefits, models, and application**,” Discover Artificial Intelligence, vol. 3, no. 1, Jan. 2023. <[paper](https://link.springer.com/article/10.1007/s44163-022-00046-0)> <[pdf](../files/Leveraging_machine_learning_and_blockchain.pdf)> 
+[J3] H. Jebamikyous, **M. Li**, Y. Suhas, and R. Kashef, “**Leveraging machine learning and blockchain in e-commerce and beyond: Benefits, models, and application**,” Discover Artificial Intelligence, vol. 3, no. 1, Jan. 2023. <[paper](https://link.springer.com/article/10.1007/s44163-022-00046-0)> <[pdf](../files/Leveraging_machine_learninga_and_blockchain.pdf)> 
 
 [J2] **M. Li**, R. Kashef, and A. Ibrahim, “**Multi-level clustering-based outlier’s detection (MCOD) using self-organizing maps**,” _Big Data and Cognitive Computing_, vol. 4, no. 4, p. 24, Sep. 2020. <[paper](https://www.mdpi.com/2504-2289/4/4/24)>
 
