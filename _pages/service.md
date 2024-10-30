@@ -22,7 +22,7 @@ redirect_from:
 * Computers and Security
 
 ## Volunteer
-* Secretary at [IEEE Toronto ComSoc chapter](https://www.ieeetoronto.ca/people/menglu-li/), _Mar 2024 - Present_
+* Secretary at [IEEE Toronto ComSoc Chapter](https://www.ieeetoronto.ca/people/menglu-li/), _Mar 2024 - Present_
 * IEEE ICME Student Volunteer, _July 2024_
 * [ACM MM](../files/menglu_li_at_ryerson_ca.pdf) Student Volunteer, _Oct 2022_
 * IEEE ICASSP Student Volunteer, _June 2021_
