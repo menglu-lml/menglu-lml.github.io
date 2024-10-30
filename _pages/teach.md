@@ -33,7 +33,7 @@ redirect_from:
 
 ## Tutorials
 
-* Tutorial in ICME2024: Multimedia Deepfake Detection, July 15, 2024 [PPT]()
+* Tutorial in ICME2024: Multimedia Deepfake Detection, July 15, 2024 [PPT](../files/ICME_Tutorial_Multimedia_Deepfake_Detection.pdf) [GitHub](https://github.com/yzyouzhang/Awesome-Multimedia-Deepfake-Detection)
 
 
 ## Instructor
