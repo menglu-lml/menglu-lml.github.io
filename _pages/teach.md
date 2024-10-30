@@ -33,9 +33,16 @@ redirect_from:
 
 ## Tutorials
 
-* Tutorial in ICME2024: Multimedia Deepfake Detection, July 15, 2024 [PPT](../files/ICME_Tutorial_Multimedia_Deepfake_Detection.pdf) [GitHub](https://github.com/yzyouzhang/Awesome-Multimedia-Deepfake-Detection)
+* Tutorial in ICME2024: Multimedia Deepfake Detection, July 15, 2024 [[PPT](../files/ICME_Tutorial_Multimedia_Deepfake_Detection.pdf)] [[GitHub](https://github.com/yzyouzhang/Awesome-Multimedia-Deepfake-Detection)]
 
 
 ## Instructor
+* Easy Education - **Software Tools and System Programming**  `Winter 2022` `Winter 2022` `Winter 2021`
+  * Delivered two-hour weekly lectures on C programming and shell scripting, covering foundational programming concepts and hands-on coding exercises.
+  * Provided personalized feedback and support to students, fostering a collaborative learning environment through Q\&A office hours.
+  * Taught over 250 students, achieving a 95\% positive feedback rate and emphasizing effective teaching strategies and student engagement.
+
 
 ## Student Mentored
+* **Majd Alber**, M.Eng Student
+* **Ramtin Asgarianamiri**, M.Eng Student
