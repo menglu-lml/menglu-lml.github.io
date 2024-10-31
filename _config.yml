@@ -24,8 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Menglu Li"
   pronouns         : # example: "she/her"  
-  bio              : "A Ph.D Candidate focused on Signal Processing and Machine Learning"
-  bio              : "Email: menglu.li@torontomu.ca"
+  bio              : "A Ph.D Candidate <br/> focused on Signal Processing and Machine Learning <br/> Email: menglu.li@torontomu.ca"
   location         : "Toronto, Canada"
   employer         : "Toronto Metropolitan University"
   uri              : # URL
@@ -45,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/menglu-lml"
+  github           : "menglu-lml"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/menglu-li-5595b1297"
+  linkedin         : "menglu-li-5595b1297"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
