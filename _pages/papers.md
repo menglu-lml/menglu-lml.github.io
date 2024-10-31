@@ -35,6 +35,6 @@ For the most up-to-date list of publications, please visit my [Google Scholar pr
 
 
 ## Preprints
-[P2] **M. Li** and X.-P. Zhang, “**Audio Anti-Spoofing Detection: A Survey**,” 2024. <[arXiv](https://arxiv.org/pdf/2404.13914)>
+[P2] **M. Li**, Y. Ahmadiadli, and X.-P. Zhang, “**Audio Anti-Spoofing Detection: A Survey**,” 2024. <[arXiv](https://arxiv.org/pdf/2404.13914)>
 
 [P1] E. Achiluzzi, **M. Li**, M. F. A. Georgy, and R. Kashef, “**Exploring the use of data-driven approaches for anomaly detection in the internet of things (IOT) environment**,” 2022. <[arXiv](https://arxiv.org/pdf/2301.00134)>
