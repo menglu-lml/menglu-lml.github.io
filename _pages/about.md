@@ -21,7 +21,7 @@ My research focuses on deep learning and audio processing, with a specialization
 
 [2024/06] [Our paper](https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.html) is accepted by [Interspeech 2024](https://interspeech2024.org/).
 
-[2024/06] We have organized a workshop: IEEE VTS/ComSoc/YP Toronto ‘Leaders of Tomorrow’ at the Sears Atrium, Toronto Metropolitan University, Canada.
+[2024/06] We organized a workshop: IEEE VTS/ComSoc/YP Toronto ‘[Leaders of Tomorrow](../files/Group-Edited.pdf)’ at TMU.
 
 [2024/05] Awarded the **Ontario Graduate Scholarship** (OGS) for the second consecutive year (one of four international student recipients at TMU)!
 
