@@ -21,5 +21,5 @@ main:
     url: /service/ 
       
   - title: "CV"
-    url: ../files/Menglu_Resume.pdf
+    url: /Menglu_Resume.pdf
     
