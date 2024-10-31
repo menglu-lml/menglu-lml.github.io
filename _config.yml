@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "121A4998-1.jpg"
   name             : "Menglu Li"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D Candidate <br/> focused on Signal Processing and Machine Learning <br/> Email: menglu.li@torontomu.ca"
