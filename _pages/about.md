@@ -13,7 +13,7 @@ My research focuses on deep learning and audio processing, with a specialization
 
 ## Recent News
 
-[2024/09] I presented our paper in [Interspeech 2024](https://interspeech2024.org/) oral session.
+[2024/09] I presented our paper at [Interspeech 2024](https://interspeech2024.org/) oral session.
 
 [2024/07] I have successfully passed my **PhD candidacy exam** on “DEEPFAKE AUDIO DETECTION: A Foucs on Efficiency, Robustness and Interpretability”!
 
@@ -23,7 +23,7 @@ My research focuses on deep learning and audio processing, with a specialization
 
 [2024/06] We organized a workshop: IEEE VTS/ComSoc/YP Toronto ‘[Leaders of Tomorrow](../files/Group-Edited.pdf)’ at TMU.
 
-[2024/05] Awarded the **Ontario Graduate Scholarship** (OGS) for the second consecutive year (one of four international student recipients at TMU)!
+[2024/05] Awarded the **Ontario Graduate Scholarship** (OGS) for the second consecutive year (one of four international student recipients at TMU).
 
 [2024/03] I attended [TMU Three-Minute Thesis (3MT®) Competition](https://www.torontomu.ca/graduate/student-guide/student-engagement/three-minute-thesis/). [[Youtube](https://www.youtube.com/watch?v=NqQar0ZmpYg)]
 
