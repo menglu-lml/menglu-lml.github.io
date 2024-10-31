@@ -25,7 +25,7 @@ My research focuses on deep learning and audio processing, with a specialization
 
 [2024/05] Awarded the **Ontario Graduate Scholarship** (OGS) for the second consecutive year (one of four international student recipients at TMU).
 
-[2024/03] I attended [TMU Three-Minute Thesis (3MT®) Competition](https://www.torontomu.ca/graduate/student-guide/student-engagement/three-minute-thesis/). [[Youtube](https://www.youtube.com/watch?v=NqQar0ZmpYg)]
+[2024/03] I participated [TMU Three-Minute Thesis (3MT®) Competition](https://www.torontomu.ca/graduate/student-guide/student-engagement/three-minute-thesis/). [[Youtube](https://www.youtube.com/watch?v=NqQar0ZmpYg)]
 
 [2024/03] Started to serve as Secretary at [IEEE Toronto ComSoc chapter](https://www.ieeetoronto.ca/chapters/communications/).
 
