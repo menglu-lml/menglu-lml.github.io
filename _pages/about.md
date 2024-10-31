@@ -29,6 +29,6 @@ My research focuses on deep learning and audio processing, with a specialization
 
 [2024/03] Started to serve as Secretary at [IEEE Toronto ComSoc chapter](https://www.ieeetoronto.ca/chapters/communications/).
 
-[2023/10] I attended IEEE WASPAA to present our work. [[poster]()]
+[2023/10] I attended IEEE WASPAA to present our work. [[poster](../files/poster.pdf)]
 
 [2023/07] [One paper](https://ieeexplore.ieee.org/abstract/document/10337724) is accepted by [MMSP2023](https://attend.ieee.org/mmsp-2023/).
