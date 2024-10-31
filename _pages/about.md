@@ -23,7 +23,7 @@ My research focuses on deep learning and audio processing, with a specialization
 
 [2024/06] We have organized a workshop: IEEE VTS/ComSoc/YP Toronto ‘Leaders of Tomorrow’ at the Sears Atrium, Toronto Metropolitan University, Canada.
 
-[2024/05] Awarded the **Ontario Graduate Scholarship** (OGS) for the second consecutive year (one of only four international student recipients at TMU)!
+[2024/05] Awarded the **Ontario Graduate Scholarship** (OGS) for the second consecutive year (one of four international student recipients at TMU)!
 
 [2024/03] I attended [TMU Three-Minute Thesis (3MT®) Competition](https://www.torontomu.ca/graduate/student-guide/student-engagement/three-minute-thesis/). [[Youtube](https://www.youtube.com/watch?v=NqQar0ZmpYg)]
 
