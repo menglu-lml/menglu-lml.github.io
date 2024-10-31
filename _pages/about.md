@@ -13,7 +13,7 @@ My research focuses on deep learning and audio processing, with a specialization
 
 ## Recent News
 
-[2024/10] I presented our paper in [Interspeech 2024](https://interspeech2024.org/) oral session.
+[2024/09] I presented our paper in [Interspeech 2024](https://interspeech2024.org/) oral session.
 
 [2024/07] I have successfully passed my **PhD candidacy exam** on “DEEPFAKE AUDIO DETECTION: A Foucs on Efficiency, Robustness and Interpretability”!
 
