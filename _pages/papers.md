@@ -10,6 +10,11 @@ author_profile: true
 For the most up-to-date list of publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=bh5r0XoAAAAJ&hl=en).
 
 ## Journal
+
+[J5] **M. Li**, X.-P. Zhang, and  L. Zhao, "**Frame-level Temporal Difference Learning for Partial Deepfake Speech Detection**", _IEEE Signal Processing Letters_, vol. 32, pp. 3052-3056, 2025.  <[paper](https://ieeexplore.ieee.org/abstract/document/11091488)> <[pdf](https://arxiv.org/pdf/2507.15101)> 
+
+[J4] **M. Li**, Y. Ahmadiadli, and X.-P. Zhang, "**A survey on speech deepfake detection**", _ACM Computing Surveys_, vol. 57, no. 7, pp. 1–38, Feb. 2025.  <[paper](https://dl.acm.org/doi/full/10.1145/3714458)> 
+
 [J3] H. Jebamikyous, **M. Li**, Y. Suhas, and R. Kashef, “**Leveraging machine learning and blockchain in e-commerce and beyond: Benefits, models, and application**,” Discover Artificial Intelligence, vol. 3, no. 1, Jan. 2023. <[paper](https://link.springer.com/article/10.1007/s44163-022-00046-0)> <[pdf](../files/Leveraging_machine_learninga_and_blockchain.pdf)> 
 
 [J2] **M. Li**, R. Kashef, and A. Ibrahim, “**Multi-level clustering-based outlier’s detection (MCOD) using self-organizing maps**,” _Big Data and Cognitive Computing_, vol. 4, no. 4, p. 24, Sep. 2020. <[paper](https://www.mdpi.com/2504-2289/4/4/24)>
@@ -21,7 +26,11 @@ For the most up-to-date list of publications, please visit my [Google Scholar pr
 
 ## Conference
 
-[C6] **M. Li** and X.-P. Zhang, “**Interpretable temporal class activation representation for audio spoofing  detection**,” Interspeech 2024, pp. 1120–1124, Sep. 2024. <[paper](https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.html)> <[pdf](https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.pdf)>
+[C8] **M. Li** and X.-P. Zhang,  “**Beyond Speech: Unveiling Neural Codec Artifacts in Background Residuals**,” accepted by _IEEE SLT 2026_.
+
+[C7] **M. Li**, M. Alber, R. Asgarianamiri, L. Zhao, and X.-P. Zhang, "**HQ-MPSD: A Multilingual Artifact-Controlled Benchmark for Partial Deepfake Speech Detection**", _IEEE International Conference on Multimedia and Expo_. July. 2026. (Spotlight) <[pdf](https://arxiv.org/pdf/2512.13012)>
+
+[C6] **M. Li** and X.-P. Zhang, “**Interpretable temporal class activation representation for audio spoofing  detection**,” _Interspeech 2024_, pp. 1120–1124, Sep. 2024. <[paper](https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.html)> <[pdf](https://www.isca-archive.org/interspeech_2024/li24oa_interspeech.pdf)>
 
 [C5] **M. Li** and X.-P. Zhang, “**Robust audio anti-spoofing system based on low-frequency sub-band information**,” _2023 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)_, pp. 1–5, Oct. 2023. <[paper](https://ieeexplore.ieee.org/document/10248132)> <[pdf](../files/Robust_Audio_Anti-Spoofing_System_Based_on_Low-Frequency_Sub-Band_Information.pdf)>
 
@@ -35,6 +44,4 @@ For the most up-to-date list of publications, please visit my [Google Scholar pr
 
 
 ## Preprints
-[P2] **M. Li**, Y. Ahmadiadli, and X.-P. Zhang, “**Audio Anti-Spoofing Detection: A Survey**,” 2024. <[arXiv](https://arxiv.org/pdf/2404.13914)>
-
 [P1] E. Achiluzzi, **M. Li**, M. F. A. Georgy, and R. Kashef, “**Exploring the use of data-driven approaches for anomaly detection in the internet of things (IOT) environment**,” 2022. <[arXiv](https://arxiv.org/pdf/2301.00134)>
