@@ -24,11 +24,11 @@ author:
   avatar           : "121A4998-1.jpg"
   name             : "Menglu Li"
   pronouns         : # example: "she/her"  
-  bio              : "A postdoctoral researcher <br/> focused on Multimedia Processing and Speech Deepfake Detection <br/> Email: menglu.li@sz.tsinghua.edu.cn"
+  bio              : "Postdoc@SIGS <br/> focused on Multimedia Processing and Speech Deepfake Detection"
   location         : "Shenzhen, China"
   employer         : "Tsinghua Shenzhen International Graduate School"
   uri              : # URL
-  email            : "menglu.li@sz.tsinghua.edu.cn" 
+  email:menglu.li@sz.tsinghua.edu.cn            : "menglu.li@sz.tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
